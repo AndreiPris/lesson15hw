@@ -1,8 +1,12 @@
 {
     "env": {
         "browser": true,
+<<<<<<< HEAD
         "es6": true,
         "jest": true
+=======
+        "es6": true
+>>>>>>> 2886d9c758ba33979ccf4cea1245eaccec6cffb5
     },
     "extends": "airbnb-base",
     "globals": {
@@ -14,7 +18,12 @@
         "sourceType": "module"
     },
     "rules": {
+<<<<<<< HEAD
         "no-alert": 0
 
     }
 }
+=======
+    }
+}
+>>>>>>> 2886d9c758ba33979ccf4cea1245eaccec6cffb5

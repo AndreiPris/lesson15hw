@@ -17,10 +17,16 @@
     "url": "https://github.com/AndreiPris/lesson15hw/issues"
   },
   "homepage": "https://github.com/AndreiPris/lesson15hw#readme",
+<<<<<<< HEAD
   "devDependencies": {
     "eslint": "^5.15.3",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.16.0",
     "jest": "^24.5.0"
+=======
+  "dependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.1.0"
+>>>>>>> 2886d9c758ba33979ccf4cea1245eaccec6cffb5
   }
 }
